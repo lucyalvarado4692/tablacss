@@ -1,0 +1,74 @@
+body{
+	height: 100px;
+	background-image: url(https://static.vecteezy.com/system/resources/previews/000/912/307/large_2x/wood-texture-wood-texture-background-photo.jpg);
+
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+}
+p{
+	font-size: 60px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.encabezado{
+	text-align: center;
+	font-weight: bold;
+
+}
+table{
+	font-size: medium;
+	margin: auto;
+	height: 300px;
+	width: 700px;
+
+}
+#black{
+	color: black;
+}
+#teal{
+	color: teal;
+}
+#blue{
+	color: blue;
+}
+#navy{
+	color: navy;
+}
+#lime{
+	color: lime;
+}
+#white{
+	color: white;
+}
+#purple{
+	color: purple;
+}
+#yellow{
+	color: yellow;
+}
+#olive{
+	color: olive;
+}
+#red{
+	color: red;
+}
+#marron{
+	color: brown;
+}
+#gray{
+	color: gray;
+}
+#fuchia{
+	color: fuchsia;
+}
+#aqua{
+	color: aqua;
+}
+#silver{
+	color: silver;
+}
