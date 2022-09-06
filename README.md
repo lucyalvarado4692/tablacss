@@ -1,6 +1,6 @@
-# Tabla CSS
+# Tabla HTML-CSS
 
-Esta es una tabla simple de CSS
+Esta es una tabla simple hecha con HTML-CSS
 
 [Visualizar en el servidor GitHub](https://lucyalvarado4692.github.io/tablacss/)
 
